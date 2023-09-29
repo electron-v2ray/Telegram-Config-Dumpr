@@ -3,6 +3,30 @@ from bs4 import BeautifulSoup
 from datetime import datetime, timedelta
 
 webpage_addresses = [
+
+
+    "https://t.me/internet_groups",
+    "https://t.me/vpn_xw",
+    "https://t.me/CloudCityy",
+    "https://t.me/azadi_az_inja_migzare",
+    "https://t.me/reality_daily",
+    "https://t.me/zen_cloud",
+    "https://t.me/DigiV2ray",
+    "https://t.me/iproxyy",
+    "https://t.me/prrofile_purple",
+    "https://t.me/+GZPlohS7jWxkMGFk",
+    "https://t.me/V2rayCollectorDonate",
+    "https://t.me/iP_CF",
+    "https://t.me/TLS_v2ray",
+    "https://t.me/v2raycollector",
+    "https://t.me/Cov2ray",
+    "https://t.me/v2ray_cartel",
+    "https://t.me/speedconfig00",
+    "https://t.me/FOXNT",
+    "https://t.me/EspinasVPN",
+    "https://t.me/frev2ray",
+    "https://t.me/vpnsshocean",
+    "https://t.me/forwardv2ray",
     "https://t.me/s/filterkoshi",
     "https://t.me/s/MsV2ray",
     "https://t.me/s/Outline_Vpn",
@@ -94,9 +118,9 @@ i = 0
 with open("config.txt", "w", encoding="utf-8") as file:
     for code in processed_codes:
         if i == 0:
-            config_string = "#🌐 Updated on " + final_string + ":00 | electron-v2ray"
+            config_string = "#🌐 Updated on " + final_string + ":00 | update every 12 hours"
         else:
-            config_string = "#✅ " + str(final_string) + ":00-" + str(i)
+            config_string = "#🌐electron-v2ray " + str(final_string) + ":00-" + str(i)
         config_final = code + config_string
         file.write(config_final + "\n")
         i += 1
