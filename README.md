@@ -10,5 +10,5 @@ Aggregate V2RAY configurations from Telegram channels.
 
 ### Notices
 
-1. Servers are updated every 12 hours at 03:00 Am and 15:00 Pm.
+1. Servers are updated every 12 hours at 06:00 Am and 18:00 Pm.
 2. Not all servers may respond, some might be outdated.
